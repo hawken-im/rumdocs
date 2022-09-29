@@ -18,4 +18,4 @@ Chinese Simplified: [https://github.com/hawken-im/rum-docs](https://github.com/h
 
 Your contributions to additional language support are welcomed. If you have written Rum documentation in other languages, please update this page with a link through a Pull Request:
 
-{% embed url="https://github.com/hawken-im/rum-docs/tree/main/duo-yu-yan-zhi-chi-language" %}
+{% embed url="https://github.com/hawken-im/rumdocs/blob/main/multiple-languages.md" %}
