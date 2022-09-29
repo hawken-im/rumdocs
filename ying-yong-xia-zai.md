@@ -4,8 +4,8 @@
 
 官方团队开发的跨平台客户端，让用户和第三方开发者们能以简易和熟悉的方式体验 Rum System 的去中心化特性。
 
-1. ![](<.gitbook/assets/bxl-windows (1).svg>) Windows 安装包 下载
-2. ![](<.gitbook/assets/bxl-apple (2).svg>) MacOS 安装包 下载
+1. ![](.gitbook/assets/bxl-windows.svg) Windows 安装包 下载
+2. ![](<.gitbook/assets/bxl-apple (1).svg>) MacOS 安装包 下载
 3. ![](.gitbook/assets/linux.svg) Linux 安装包 下载
 4. ![](.gitbook/assets/bxl-android.svg) 移动端安卓系统安装包 下载
 5. ![](.gitbook/assets/bxs-planet.svg) 网页版 Rum App 打开链接
@@ -43,7 +43,7 @@
 
 ### Quorum
 
-命令行全节点客户端，为整个 Rum Network 贡献网络资源。可以用 Rum App 远程访问管理。未来会通过经济系统来奖励贡献了网络资源的节点。[我想了解怎样运行一个全节点](applications.md#rum-lib)
+命令行全节点客户端，为整个 Rum Network 贡献网络资源。可以用 Rum App 远程访问管理。未来会通过经济系统来奖励贡献了网络资源的节点。[我想了解怎样运行一个全节点](ying-yong-xia-zai.md#rum-lib)
 
 ![](.gitbook/assets/bxl-github.svg) github/rumsystem/quorum
 
@@ -53,4 +53,4 @@
 
 Rum System 是一个开源的去中心化的网络开放平台。Rum 团队真诚希望更多开发者一起贡献代码和创意，探索平行互联网世界的更多可能性。
 
-[我是开发者，想了解更多](wo-shi-kai-fa-zhe.md)
+[我是开发者，想了解更多](im-a-developer.md)

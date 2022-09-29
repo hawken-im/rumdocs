@@ -14,7 +14,7 @@ description: Rum - The Internet Alternatives
 
 Rum is an open-source P2P application infrastructure to offer some internet alternatives. The official Rum team has developed decentralized applications (DApps) to meet different scenarios to demonstrate the many possibilities of the Rum System. It provides unlimited imagination for building an alternative Internet world.
 
-[applications.md](applications.md "mention")
+[ying-yong-xia-zai.md](ying-yong-xia-zai.md "mention")
 
 
 

@@ -26,5 +26,5 @@ rum://seed?v=1&e=0&n=0&b=7iNdq39dTMmIde1Fr_a1sQ&c=nx_jwX8-V-9gxco6bZt2ogn-NZ87UP
 
 
 
-#### [SeedNets created by community](she-qu-nei-rong/zhong-zi-tui-jian.md)
+#### [SeedNets created by community](community-contributions/zhong-zi-tui-jian.md)
 

@@ -101,7 +101,7 @@ After successfully executing the command, copy the text after `token:` and save 
 
 In this step, we will connect to the remote Quorum service through the local Rum App to manage the running node.
 
-First, [download the Rum App](applications.md#rum-app) and install it on your local computer.
+First, [download the Rum App](ying-yong-xia-zai.md#rum-app) and install it on your local computer.
 
 Launch the Rum App and select "External Node" on the startup screen.
 
@@ -125,4 +125,4 @@ If any problems, try:
 2. Note if the firewall allows each port.
 3. If you fail in trying repeatedly, please toggle on the DevTools of the Rum App to analyze the problem.
 
-[Was this document helpful? Feel free to submit any issue or pull request to GitHub, thank you for your help.](https://github.com/hawken-im/rum-docs/blob/main/zen-yang-yun-hang-yi-ge-quan-jie-dian.md)
+[Was this document helpful? Feel free to submit any issue or pull request to GitHub, thank you for your help.](how-to-run-a-full-node.md)
