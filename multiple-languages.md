@@ -2,7 +2,7 @@
 
 This Rum Guide is available in the languages below:
 
-#### [English](https://app.gitbook.com/o/9SHKDQEDtnG5hKH7k38f/s/6EQV9f4Sw1meDmmcnZow/)
+#### [English](broken-reference)
 
 #### [简体中文](https://app.gitbook.com/o/9SHKDQEDtnG5hKH7k38f/s/216qTN0ijD75fWVlhcBs/)
 
